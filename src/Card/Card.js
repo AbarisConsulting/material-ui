@@ -1,5 +1,5 @@
 import React, {Component, PropTypes} from 'react';
-import Paper from '../Paper';
+import Paper from 'material-ui/Paper';
 import CardExpandable from './CardExpandable';
 
 class Card extends Component {

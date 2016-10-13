@@ -1,7 +1,7 @@
 import React, {Component, PropTypes} from 'react';
-import OpenIcon from '../svg-icons/hardware/keyboard-arrow-up';
-import CloseIcon from '../svg-icons/hardware/keyboard-arrow-down';
-import IconButton from '../IconButton';
+import OpenIcon from 'material-ui/svg-icons/hardware/keyboard-arrow-up';
+import CloseIcon from 'material-ui/svg-icons/hardware/keyboard-arrow-down';
+import IconButton from 'material-ui/IconButton';
 
 function getStyles() {
   return {
